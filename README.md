@@ -15,7 +15,7 @@ The rate of this exchanger is set by our platform with an emphasis on the rate o
 
 ## Contact information
 
-Project site: [https://alternativeruble.com/](https://alternativeruble.com/)
-Twitter: [https://twitter.com/arubcoin](https://twitter.com/arubcoin)
-Telegram: [https://t.me/alternativeruble](https://t.me/alternativeruble)
-Email: info@alternativeruble.com
+* Project site: [https://alternativeruble.com/](https://alternativeruble.com/)
+* Twitter: [https://twitter.com/arubcoin](https://twitter.com/arubcoin)
+* Telegram: [https://t.me/alternativeruble](https://t.me/alternativeruble)
+* Email: info@alternativeruble.com
